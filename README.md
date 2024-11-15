@@ -30,5 +30,4 @@ Setting up your data science environment can be daunting, but the key is patienc
 Errors are part of the learning process. Often, they point to simple fixes, like network issues or system settings.
 
 In my journey with the Arewa Data Science Program, I’ve learned that the initial setup is a critical step that sets the foundation for everything to come. The process wasn’t always smooth, but overcoming these challenges has been rewarding. If you’re starting your data science journey or setting up these tools, remember to be patient, use resources like documentation, and don’t hesitate to seek help when needed.
-[Mujahid git website]{https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments.-}
- [Mujahid's git website]{https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments.-}
+[Mujahid git website]{https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments}
