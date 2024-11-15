@@ -9,8 +9,8 @@ Setting Up Essential Tools for Data Science
 
 In the Arewa Data Science Program, one of the first steps was to set up essential tools like Conda, Anaconda, Git, and GitHub. Having some prior experience downloading and installing software on my computer, I found setting up these packages straightforward. Each tool plays a unique role in the data science workflow:
 
-- Conda & Anaconda: These are powerful package and environment managers that simplify the process of installing and managing libraries in Python.
-- Git & GitHub: While Git is a version control tool, GitHub provides a platform to host and share code, enabling collaboration and version tracking on projects.
+ **Conda & Anaconda**: These are powerful package and environment managers that simplify the process of installing and managing libraries in Python.
+**Git & GitHub**: While Git is a version control tool, GitHub provides a platform to host and share code, enabling collaboration and version tracking on projects.
 
 The program provided step-by-step instructions, which made it easy to get started. For those new to these tools, I recommend reading the official documentation or looking up beginner-friendly tutorials—they’re a great resource to fill in any gaps and build confidence in using each tool.
 
@@ -22,8 +22,8 @@ Tip: If you’re installing Ubuntu for the first time, make sure your network is
 
 Setting up your data science environment can be daunting, but the key is patience and problem-solving. Here’s what I’ve learned so far:
 
-- Use Documentation: Many issues have straightforward solutions available in official documentation or online forums.
-- Start Small: Focus on mastering one tool at a time to avoid feeling overwhelmed. Each tool has a learning curve, but tackling them one by one makes it manageable.
+-Use Documentation: Many issues have straightforward solutions available in official documentation or online forums.
+-Start Small: Focus on mastering one tool at a time to avoid feeling overwhelmed. Each tool has a learning curve, but tackling them one by one makes it manageable.
 
 Errors are part of the learning process. Often, they point to simple fixes, like network issues or system settings.
 
