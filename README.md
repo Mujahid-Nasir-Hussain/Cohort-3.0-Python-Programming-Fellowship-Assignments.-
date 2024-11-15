@@ -18,7 +18,7 @@ Overcoming Installation Challenges:
 
 Though most installations went smoothly, I faced a hurdle with Ubuntu installation. Initially, I doubted whether my system could support it, which was frustrating. After a bit of troubleshooting, I discovered that the real issue was with my network connection—not my system’s compatibility. With a better connection, the installation proceeded without a hitch.
 
-Tip: If you’re installing Ubuntu for the first time, make sure your network is stable and check your system’s compatibility requirements in advance. Sometimes, the smallest details can save a lot of time and frustration.
+_Tip: If you’re installing Ubuntu for the first time, make sure your network is stable and check your system’s compatibility requirements in advance. Sometimes, the smallest details can save a lot of time and frustration._
 
 Setting up your data science environment can be daunting, but the key is patience and problem-solving. Here’s what I’ve learned so far:
 
