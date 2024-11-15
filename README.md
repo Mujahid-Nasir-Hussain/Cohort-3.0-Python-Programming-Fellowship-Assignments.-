@@ -22,8 +22,8 @@ Tip: If you’re installing Ubuntu for the first time, make sure your network is
 
 Setting up your data science environment can be daunting, but the key is patience and problem-solving. Here’s what I’ve learned so far:
 
--Use Documentation: Many issues have straightforward solutions available in official documentation or online forums.
--Start Small: Focus on mastering one tool at a time to avoid feeling overwhelmed. Each tool has a learning curve, but tackling them one by one makes it manageable.
+1. Use Documentation: Many issues have straightforward solutions available in official documentation or online forums.
+2. Start Small: Focus on mastering one tool at a time to avoid feeling overwhelmed. Each tool has a learning curve, but tackling them one by one makes it manageable.
 
 Errors are part of the learning process. Often, they point to simple fixes, like network issues or system settings.
 
