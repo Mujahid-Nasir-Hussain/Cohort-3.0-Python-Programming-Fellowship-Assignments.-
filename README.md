@@ -50,3 +50,8 @@ print ("Hello world!")
 #Horizontal
 ---
 ***
+| Name             |Department |
+|------------------|-----------|
+|Abdullahi         | Physiology|
+| Usman             | Anatomyy  |
+
