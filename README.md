@@ -34,7 +34,7 @@ In my journey with the Arewa Data Science Program, I’ve learned that the initi
 
 ##Link
 
-[Mujahid git website]{https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments}
+[Mujahid git website](https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments)
 
 #code and syntax
 
