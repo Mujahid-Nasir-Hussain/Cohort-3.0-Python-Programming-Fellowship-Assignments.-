@@ -36,6 +36,7 @@ In my journey with the Arewa Data Science Program, I’ve learned that the initi
 
 [Mujahid git website](https://github.com/Mujahid-Nasir-Hussain/Cohort-3.0-Python-Programming-Fellowship-Assignments)
 
+[Arewa data science website](https://github.com/arewadataScience/python-programming-fellowship)
 #code and syntax
 
 
